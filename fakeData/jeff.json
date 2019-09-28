@@ -1,0 +1,23 @@
+{
+	"supplier_id": "JEFF",
+	"pickup": "-17.47213,71.41213",
+	"dropoff": "-19.18811,-114.04481",
+	"options": [
+		{
+			"car_type": "STANDARD",
+			"price": 775993
+		},
+		{
+			"car_type": "LUXURY",
+			"price": 684399
+		},
+		{
+			"car_type": "PEOPLE_CARRIER",
+			"price": 809785
+		},
+		{
+			"car_type": "MINIBUS",
+			"price": 378126
+		}
+	]
+}
