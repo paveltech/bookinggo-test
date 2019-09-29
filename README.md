@@ -44,7 +44,7 @@ npm run console -- --pickup=1,1 --dropoff=2,2
 ### Print cheapest prices for all suppliers for vehicles with 5 or more passengers
 
 ```
-npm run console -- --pickup=1,1 --dropoff=2,2  --passengers=5
+npm run console -- --pickup=1,1 --dropoff=2,2 --passengers=5
 ```
 
 ## Part 2 - API
