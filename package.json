@@ -5,7 +5,7 @@
 	"main": "index.js",
 	"scripts": {
 		"test": "mocha || true",
-		"start": "nodemon ./lib/index.js",
+		"start": "node index.js",
 		"console": "node ./lib/console.js"
 	},
 	"repository": {
@@ -23,12 +23,10 @@
 		"express": "^4.17.1",
 		"is-valid-coordinates": "^1.0.0",
 		"query-string": "^6.8.3",
-		"request": "^2.88.0",
 		"yargs": "^14.0.0"
 	},
 	"devDependencies": {
 		"chai": "^4.2.0",
-		"mocha": "^6.2.0",
-		"nodemon": "^1.19.2"
+		"mocha": "^6.2.0"
 	}
 }
