@@ -20,7 +20,7 @@
 	"homepage": "https://github.com/pavelp0798/bookinggo-technical-test#readme",
 	"dependencies": {
 		"axios": "^0.21.1",
-		"express": "^4.17.1",
+		"express": "^4.17.3",
 		"is-valid-coordinates": "^1.0.0",
 		"query-string": "^6.8.3",
 		"yargs": "^14.0.0"
